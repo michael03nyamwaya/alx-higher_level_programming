@@ -28,4 +28,4 @@ This project is about using modules in Python.
 
 ## Author
 
-[Darwin Soto](https://twitter.com/darutos)
+[michael nyamwaya]
